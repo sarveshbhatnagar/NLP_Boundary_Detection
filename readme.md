@@ -10,8 +10,8 @@ deactivate
 
 pip install -r requirements.txt or make install
 
-# 88.31 with all features
+# 94 with orignal
 
-# 88.65 with only 5 features
+# 98.8 with both
 
-# Dire need to change features...
+# 89 with custom
